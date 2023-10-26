@@ -1,68 +1,226 @@
-,item,week,ingredients
-0,Peas,1,"{""peas"" : 10, ""oil"": 1, ""mustard"": 1, ""potatoes"":1}"
-1,Beef Stroganoff with Dill Butter,1,0
-2,Guacamole,1,"{""cheese"": 10}"
-3,Fish Taco with Pico de Gallo,1,"{""cheese"": 10}"
-4,Rosemary Garlic Lemon Roasted Chicken Breast with Yam Fries,1,0
-5,Thai Red Curry Pork with Jasmine Rice,1,"{""cheese"": 10}"
-6,Cheese,1,"{""cheese"": 10}"
-7,Mushroom Pizza with Chef Salad,1,"{""mushroom"": 2, ""oil"": 1, ""spices"": 2}"
-8,sausage,1,0
-9,Alfredo Baked Penne with Diced Chicken,1,"{""peas"" : 10, ""oil"": 1, ""mustard"": 1, ""potatoes"":1}"
-10,Glazed Noodles,1,0
-11,Chicken,1,0
-12,Roast Beef with Demi Glace,1,0
-13,mini Yorkshire,1,0
-14,Mexican Rice,1,"{""mushroom"": 2, ""oil"": 1, ""spices"": 2}"
-15,Traditional Poutine,1,0
-16,Biscuit,1,"{""peas"" : 10, ""oil"": 1, ""mustard"": 1, ""potatoes"":1}"
-17,toasts,1,0
-18,Pesto Penne Pasta with  Garlic Bread,1,0
-19,Cajun Baked Salmon with Rosemary Mashed Potato,1,0
-20,Spinach Salad with Bacon Dressing,1,"{""mushroom"": 2, ""oil"": 1, ""spices"": 2}"
-21,Flatbread,1,0
-22,Mediterranean Cod with Lemon Rice Pilaf,1,0
-23,Homefries,1,"{""peas"" : 10, ""oil"": 1, ""mustard"": 1, ""potatoes"":1}"
-24,Basmati Rice,1,0
-25,Meatloaf with Red Potato,1,0
-26,Dill Mayo,1,0
-27,Chicken a la King with Parmesan Mashed Potato,1,"{""peas"" : 10, ""oil"": 1, ""mustard"": 1, ""potatoes"":1}"
-28,Spinach,1,0
-29,Whipped Cream,1,0
-30,Maple Syrup,1,0
-31,Pancakes,1,0
-32,Avocado Chicken S,1,0
-33,Broccoli,1,0
-34,Beef Chili with Stuffed Green Pepper,1,0
-35,pancakes,1,0
-36,Potato Wedges,1,0
-37,eggs any style,1,0
-38,fresh fruit salad bar,1,0
-39,Garlic Bread,1,0
-40,Cacciatore Baked Pork Chop with Mashed Potato,1,0
-41,Vegetable Medley,1,0
-42,Brussel Sprouts,1,0
-43,Roasted Asparagus,1,0
-44,Onions,1,0
-45,Chicken Parmigiana with Green Salad,1,0
-46,sandwiches: Tomato,1,0
-47,witch with Potato Salad,1,0
-48,Chipotle Mayo,1,0
-49,Ranch Dressing,1,0
-50,Garlic Toast,1,0
-51,Gravy,1,0
-52,Cheese Canneloni in Rose Cream Sauce,1,0
-53,Sausage  with Braised Cabbage,1,0
-54,Tourtiere with Baked Beans,1,0
-55,Chicken Breast with Fajita Topping,1,0
-56,Caramelized Onion,1,0
-57,Fries,1,0
-58,Chicken Souvlaki with Tzatziki,1,0
-59,Tortitas de Carne (Sliders in Tomato Sauce) with Steamed Rice Mixed with  Vegetables,1,0
-60,Dill Baked Trout with Lemon Cream,1,0
-61,Hot or cold cereals,1,0
-62,Pita Bread,1,0
-63,Roasted Vegetables,1,0
-64,Tuscan Chicken with Roasted Potato,1,0
-65,Beef Stir Fry with Broccoli,1,0
-66,Sour Cream,1,0
+,items,ingredients
+0,,0
+1,Buttered Peaches,0
+2,Cheddar,0
+3,Green Beans,0
+4,Meatloaf with Red Potato,0
+5,Whipped Cream,0
+6,Dill Baked Trout with Lemon Cream,0
+7,Seasoned Gravy,0
+8,Cheese Mini  Quiche,0
+9,Thai Red Curry Pork with Jasmine Rice,0
+10,Brussel Sprouts,0
+11,Mashed Potatoes,0
+12,Beef Tourtiere,0
+13,Lemon Wedge,0
+14,Seasoned Beef gravy,0
+15,mashed Potatoes,0
+16,Long Grain Rice,0
+17,warm Roll,0
+18,Honey Garlic Chicken Breast,0
+19,Open face beef sandwich,0
+20,Meatballs,0
+21,Cheese Tomato Quiche,0
+22,Coleslaw,0
+23,Roasted Asparagus,0
+24,Cream Corn,0
+25,Cheese,0
+26,Pasta Bake,0
+27,House Garden,0
+28,Meatball Stroganoff,0
+29,witch with Potato Salad,0
+30,Ginger Garlic Cod Loin,0
+31,Roasted Pork Shoulder,0
+32,Pork Gravy,0
+33,Pancakes,0
+34,bacon or sausage,0
+35,Mint Jelly,0
+36,Spinach,0
+37,Lemon Butter Sauce,0
+38,BLT,0
+39,Baked Canneloni in Tomato Sauce,0
+40,bacon or sausages,0
+41,Beef Sliders,0
+42,Housemade Battered Haddock,0
+43,Sausage,0
+44,Mexican Rice,0
+45,Seasoned Chicken Breast,0
+46,Traditional Poutine,0
+47,Sausage  with Braised Cabbage,0
+48,Pepperoni Pizza,0
+49,Cacciatore Baked Pork Chop with Mashed Potato,0
+50,Off the Grill Medium Striploin  Steak,0
+51,Buttered  Parsnip,0
+52,Toasted Bun,0
+53,Maple Syrup,0
+54,Garlic Toast,0
+55,bell peppers,0
+56,BBQ Chicken Breast,0
+57,Cream Cheese,0
+58,Spaghetti,0
+59,Tourtiere with Baked Beans,0
+60,Corn,0
+61,tomato basil sauce,0
+62,warm Bun,0
+63,"Hot or cold cereals
+eggs any style
+toasts",0
+64,Peameal,0
+65,Roasted Vegetables,0
+66,Garlic Bread,0
+67,Bacon,0
+68,Avocado Chicken S,0
+69,Fries,0
+70,Beets,0
+71,Braised Green Cabbage,0
+72,Buttered Cauliflower,0
+73,bacon or Sausages,0
+74,Seasoned Beef  Gravy,0
+75,Lamb Leg,0
+76,Rye,0
+77,Vegetarian Omelette,0
+78,Vegetable Rice,0
+79,Braised Pot Roast,0
+80,cheese sandwich,0
+81,Vegetarian Lasagna,0
+82,Chicken Wings,0
+83,Sweet,0
+84,toasts,0
+85,Guacamole,0
+86,Alfredo Baked Penne with Diced Chicken,0
+87,Roasted Potatoes,0
+88,Smokey Applewood Salmon,0
+89,Seasoned Pork Gravy,0
+90,Beef Liver,0
+91,Shredded Mozza Cheese,0
+92,Season Roasted Chicken Breast,0
+93,ham,0
+94,Baby Spinach Salad,0
+95,Feta Dressing,0
+96,Horseradish Mayo,0
+97,Chicken a la King with Parmesan Mashed Potato,0
+98,Seasoned Pork Tenderloin,0
+99,Braised Cabbage,0
+100,Chicken Parmesan,0
+101,Roasted Mild Sausage,0
+102,Butter Chicken,0
+103,Mashed,0
+104,Shepherd's Pie,0
+105,warm syrup,0
+106,Fish Taco with Pico de Gallo,0
+107,Tomato Basil Sauce,0
+108,eggs any style,0
+109,Mashed Potates,0
+110,coleslaw,0
+111,Toasted Western Sandwich,0
+112,Buttered Corn on the Cob,0
+113,sandwiches: Tomato,0
+114,Glazed Noodles,0
+115,Fried Egg,0
+116,Onion,0
+117,Grilled Italian Ham Sandwich with Mozza,0
+118,Tandori Chicken,0
+119,Almond Crusted Sole,0
+120,Steamed Long Grain Rice Peas,0
+121,Braised Corned Beef Scallop Potatoes,0
+122,Cheese Ravioli,0
+123,Spinach Salad with Bacon Dressing,0
+124,Biscuit,0
+125,Basmati Rice,0
+126,pancakes,0
+127,Mushroom Pizza with Chef Salad,0
+128,Chicken Parmigiana with Green Salad,0
+129,Ranch Dressing,0
+130,Sour Cream,0
+131,Poached Cod Loin,0
+132,corn,0
+133,White Rice,0
+134,Tortitas de Carne (Sliders in Tomato Sauce) with Steamed Rice Mixed with  Vegetables,0
+135,Grilled Cheese,0
+136,Vegetable White Rice,0
+137,Caramelized Onion,0
+138,Perogies,0
+139,Greek Salad,0
+140,Chipotle Mayo,0
+141,Carrots,0
+142,Chicken Souvlaki with Tzatziki,0
+143,Pita Bread,0
+144,mini Yorkshire,0
+145,Bang Bang Shrimp,0
+146,Beef Gravy,0
+147,Mediterranean Cod with Lemon Rice Pilaf,0
+148,Peas,0
+149,Beef Chili,0
+150,Onion Rings,0
+151,Caeser Salad,0
+152,Buttered Braised Cabbage,0
+153,sausage,0
+154,tomato,0
+155,Parsnip,0
+156,Greek,0
+157,Caesar Salad,0
+158,Chicken Pasta Bake,0
+159,onions,0
+160,Dill Mayo,0
+161,Mixed Vegetable,0
+162,Steamed White Rice,0
+163,Meatloaf,0
+164,Steamed Parsnip,0
+165,Beef Chili with Stuffed Green Pepper,0
+166,Tuscan Chicken with Roasted Potato,0
+167,lettuce,0
+168,Sour  Chicken  Stir-Fry,0
+169,Baby Spinach,0
+170,Homefries,0
+171,Grilled Chicken Burger,0
+172,fresh fruit salad bar,0
+173,Potato Wedges,0
+174,BBQ Pulled Pork Sandwich,0
+175,Beef Stir Fry with Broccoli,0
+176,Caeser Pasta Salad,0
+177,Pork Soulvaki Bites,0
+178,Broccoli,0
+179,Bone In Seasoned Pork Chops,0
+180,Cajun Baked Salmon with Rosemary Mashed Potato,0
+181,Toasted Whole Wheat,0
+182,Pastrami Sandwich,0
+183,Season Roasted Chicken Quarters,0
+184,fresh fruit salad,0
+185,Hot or cold cereals,0
+186,Pesto Penne Pasta with  Garlic Bread,0
+187,Cheese Canneloni in Rose Cream Sauce,0
+188,Vegetable Medley,0
+189,fresh fruit,0
+190,Pan Seared Trout,0
+191,Chicken Breast with Fajita Topping,0
+192,Rosemary Garlic Lemon Roasted Chicken Breast with Yam Fries,0
+193,Cauliflower,0
+194,Roast Beef with Demi Glace,0
+195,Herb Roasted Chicken Drumsticks,0
+196,Steamed Green Peas,0
+197,Ribbon Cucumber,0
+198,Fried Onions,0
+199,Steamed Beets,0
+200,tortellini,0
+201,Bell Pepper,0
+202,Tomato Basil Vegetable,0
+203,Flatbread,0
+204,Onions,0
+205,House Garden Salad,0
+206,Tomato Basil Cabbage Rolls,0
+207,Sub Bun,0
+208,Seasoned Beef Gravy,0
+209,Chicken,0
+210,Greek Salad with House Dressing,0
+211,Warm Syrup,0
+212,Chippers,0
+213,Beef Stroganoff with Dill Butter,0
+214,Swiss,0
+215,Pork Schnitzel,0
+216,Salmon,0
+217,Gravy,0
+218,French Toast,0
+219,vegetable Rice,0
+220,Reubens,0
+221,Grilled Ham,0
+222,seasoned gravy,0
